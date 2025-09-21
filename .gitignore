@@ -1,0 +1,24 @@
+# Java / Maven
+target/
+*.log
+
+# Node / Vite
+node_modules/
+dist/
+
+# IDE / OS
+.metadata/
+.idea/
+.vscode/
+*.iml
+.DS_Store
+
+# Secrets / env
+*.env
+.env.*
+application-*.yml
+application-*.properties
+
+# Archives & binaries (don’t version WARs/zips)
+*.zip
+*.war
