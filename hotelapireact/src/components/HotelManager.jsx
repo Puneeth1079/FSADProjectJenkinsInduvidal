@@ -199,7 +199,7 @@ const HotelManager = () => {
         </div>
       )}
 
-      <h2>Hotel Management</h2>
+      <h2>Room Management</h2>
 
       <div>
         <h3>{editMode ? 'Edit Room Details' : 'Add Room'}</h3>
